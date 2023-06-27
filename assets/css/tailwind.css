@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .banner-landing-sm {
+    height: 150px;
+  }
+  .banner-landing-md {
+    height: 310px;
+  }
+  .banner-landing-lg {
+    height: 420px;
+  }
+}
