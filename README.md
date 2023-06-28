@@ -80,6 +80,12 @@ Build the application for production:
 pnpm build
 ```
 
+Build the application for SSG:
+
+```bash
+pnpm generate
+```
+
 Locally preview production build:
 
 ```bash
