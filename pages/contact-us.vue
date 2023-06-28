@@ -21,29 +21,9 @@
             commercial projects and documentaries, we’ve got you covered. Let’s work together to capture life’s moments
             and bring your vision to life!
           </p>
-          <p class="text-justify text-gray-500">
-            We offer a range of customizable pricing packages for all your photo and video needs. From fashion shoots to
-            commercial projects and documentaries, we’ve got you covered. Let’s work together to capture life’s moments
-            and bring your vision to life!
-          </p>
-          <p class="text-justify text-gray-500">
-            We offer a range of customizable pricing packages for all your photo and video needs. From fashion shoots to
-            commercial projects and documentaries, we’ve got you covered. Let’s work together to capture life’s moments
-            and bring your vision to life!
-          </p>
-          <p class="text-justify text-gray-500">
-            We offer a range of customizable pricing packages for all your photo and video needs. From fashion shoots to
-            commercial projects and documentaries, we’ve got you covered. Let’s work together to capture life’s moments
-            and bring your vision to life!
-          </p>
-          <p class="text-justify text-gray-500">
-            We offer a range of customizable pricing packages for all your photo and video needs. From fashion shoots to
-            commercial projects and documentaries, we’ve got you covered. Let’s work together to capture life’s moments
-            and bring your vision to life!
-          </p>
         </div>
+        <Footer />
       </div>
-      <Footer />
     </div>
   </PageWrapper>
 </template>
