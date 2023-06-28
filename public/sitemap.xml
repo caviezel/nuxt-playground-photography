@@ -13,37 +13,5 @@
   <url>
     <loc>https://abcgames.fun/learn-and-play</loc>
     <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/tracing-game</loc>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/toddler-games</loc>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/pizza-maker</loc>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/ice-cream-maker</loc>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/monster-math</loc>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/contact-us</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/privacy-policy</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://abcgames.fun/links</loc>
-    <priority>0.80</priority>
-  </url>
+  </url>  
 </urlset>

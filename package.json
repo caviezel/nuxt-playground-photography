@@ -17,9 +17,12 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
     "@vueuse/core": "^10.1.2",
     "clsx": "^1.2.1",
-    "dayjs": "^1.11.7"
+    "dayjs": "^1.11.7",
+    "epic-spinners": "^2.0.0",
+    "pinia": "^2.1.4"
   },
   "prettier": {
     "semi": false,
