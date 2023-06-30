@@ -12,7 +12,7 @@ export default defineNuxtConfig({
       script: [{}],
     },
   },
-  modules: ['@nuxtjs/tailwindcss', '@pinia/nuxt'],
+  modules: ['@nuxtjs/tailwindcss', '@pinia/nuxt', '@formkit/nuxt'],
   css: [
     '@fortawesome/fontawesome-svg-core/styles.css',
     '~/assets/css/styles.css',

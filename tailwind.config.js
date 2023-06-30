@@ -1,5 +1,9 @@
+const FormKitVariants = require('@formkit/themes/tailwindcss')
+
 module.exports = {
   content: [
+    './src/**/*.{html,js,vue}',
+    './node_modules/@formkit/themes/dist/tailwindcss/genesis/index.cjs',
     './components/**/*.{js,vue,ts}',
     './layouts/**/*.vue',
     './pages/**/*.vue',
@@ -10,5 +14,5 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [FormKitVariants],
 }
