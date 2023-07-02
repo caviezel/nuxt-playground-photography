@@ -5,7 +5,8 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "analyze": "nuxt analyze"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
@@ -25,7 +26,8 @@
     "clsx": "^1.2.1",
     "dayjs": "^1.11.7",
     "epic-spinners": "^2.0.0",
-    "pinia": "^2.1.4"
+    "pinia": "^2.1.4",
+    "vue3-toastify": "^0.1.11"
   },
   "prettier": {
     "semi": false,
