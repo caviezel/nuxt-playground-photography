@@ -5,19 +5,12 @@ import {
   faInstagram,
   faYoutube,
 } from '@fortawesome/free-brands-svg-icons'
-import { faAngleRight, faPlay } from '@fortawesome/free-solid-svg-icons'
+import { faAngleDown, faPlay } from '@fortawesome/free-solid-svg-icons'
 
 // This is important, we are going to let Nuxt worry about the CSS
 config.autoAddCss = false
 
-library.add(
-  faPlay,
-  faYoutube,
-  faInstagram,
-  faFacebook,
-  faAngleRight,
-  faAngleRight
-)
+library.add(faPlay, faYoutube, faInstagram, faFacebook, faAngleDown)
 
 export default defineNuxtPlugin((nuxtApp) => {
   nuxtApp.vueApp.component('font-awesome-icon', FontAwesomeIcon)

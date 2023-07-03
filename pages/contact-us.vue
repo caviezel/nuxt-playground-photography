@@ -42,5 +42,3 @@ const submit = async (fields: any) => {
   notify(JSON.stringify(fields))
 }
 </script>
-
-<style scoped></style>

@@ -7,6 +7,6 @@
 <script lang="ts" setup>
 defineProps<{
   icon: string,
-  rootClass: string,
+  rootClass?: string,
 }>()
 </script>
